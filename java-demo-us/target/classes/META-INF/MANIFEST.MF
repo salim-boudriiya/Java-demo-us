@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: smba
+Build-Jdk: 13.0.2
+Implementation-Title: java-demo-us
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.salim.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/java-demo-us
+Created-By: Maven Integration for Eclipse
+
